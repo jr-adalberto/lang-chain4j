@@ -199,7 +199,3 @@ src/main/java/com/langchain/
 Desenvolvido como projeto de estudo de **Java + IA + LangChain4j**.
 
 ---
-
-## 📄 Licença
-
-MIT
