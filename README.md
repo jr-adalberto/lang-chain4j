@@ -194,7 +194,7 @@ src/main/java/com/langchain/
 
 ---
 
-## 👨‍💻 Autor
+## 👨🏾‍💻 Autor
 
 Desenvolvido como projeto de estudo de **Java + IA + LangChain4j**.
 
